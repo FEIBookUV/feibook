@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+    <field key="author" value="Luis Abraham Zavaleta" />
+    <field key="version" value="1.0" />
+    <field key="description" value="Servicios Web para la aplicación móvil de FEIBook." />
+    <field key="website" value="http://feibook.mx" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="1.7.17" />
+</plugin_manifest>

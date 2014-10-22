@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="ColdTrick IT Solutions" />
+	<field key="version" value="0.1" />
+	<field key="description" value="Build custom menu's with this plugin" />
+	<field key="website" value="http://www.coldtrick.com/" />
+	<field key="copyright" value="(C) ColdTrick IT Solutions 2009" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2010040201" />
+</plugin_manifest>
+<!-- 
+
+=========================
+Features
+=========================
+ - Build your custom header menu (admin only)
+ - Integrate it in your template or extend the default elgg header (admin setting)
+ - drag and drop reordering
+ - Autodetection of selected menu item for highlighting
+ - Menu items for public, logged in or admin only
+
+=========================
+Version Information
+=========================
+0.1:
+	- first release
+
+-->
